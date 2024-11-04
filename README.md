@@ -1,4 +1,4 @@
-# **Mall Customer Behaviour Segmentation using K-Means Clustering**
+# **ShopSmart:Mall Customer Behaviour Segmentation using K-Means Clustering**
 
 ![Customer Segmentation](https://static-blog.omniconvert.com/blog/wp-content/uploads/2024/06/01012048/customer-behaviour-segmentation.webp "Mall Customer Behaviour Segmentation using K-Means")
 
