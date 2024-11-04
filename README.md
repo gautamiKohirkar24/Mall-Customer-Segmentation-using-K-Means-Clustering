@@ -1,4 +1,6 @@
-# **Mall Customer Segmentation using K-Means Clustering**
+# **Mall Customer Behaviour Segmentation using K-Means Clustering**
+
+![Customer Segmentation](https://static-blog.omniconvert.com/blog/wp-content/uploads/2024/06/01012048/customer-behaviour-segmentation.webp "Mall Customer Behaviour Segmentation using K-Means")
 
 ## **Project Overview**
 This project focuses on understanding and analyzing customer behavior in a mall setting to enable more targeted and effective marketing strategies. Through the use of **K-Means Clustering**, we segment customers based on their purchasing behavior and demographic information, which will allow the business owner to make informed decisions to enhance customer experience and drive sales. This is a classic example of **Market Basket Analysis** in **Machine Learning** and **Data Science**.
